@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oythercle.github.io/sitemap.html.gz
+Sitemap: https://oythercle.github.io/app/sitemap.html.gz
+Sitemap: https://oythercle.github.io/assets/sitemap.html.gz
+Sitemap: https://oythercle.github.io/css/sitemap.html.gz
+Sitemap: https://oythercle.github.io/includes/sitemap.html.gz
+Sitemap: https://oythercle.github.io/item/sitemap.html.gz
+Sitemap: https://oythercle.github.io/src/sitemap.html.gz
